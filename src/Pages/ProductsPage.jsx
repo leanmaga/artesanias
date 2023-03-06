@@ -2,12 +2,12 @@ import React from 'react'
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import Navbar from '../components/Nav'
+import Navbar from '../components/Navbar'
 import CarouselStitch from '../components/Carousel'
 import DropdownButton from '../components/Dropdowns';
 
 
-const ArosPage = () => {
+const ProductsPage = () => {
   return (
 
     <Container >
@@ -35,4 +35,4 @@ const ArosPage = () => {
   )
 }
 
-export default ArosPage;
+export default ProductsPage;

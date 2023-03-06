@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Form, Row, Col, Button } from 'react-bootstrap';
-import Navbar from '../components/Nav';
+import Navbar from '../components/Navbar';
 import SocialIcons from '../components/SocialIcons'
 
 function Contact() {
