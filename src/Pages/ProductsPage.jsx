@@ -4,7 +4,6 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Navbar from '../components/Navbar'
 import CarouselStitch from '../components/Carousel'
-import DropdownButton from '../components/Dropdowns';
 
 
 const ProductsPage = () => {
@@ -19,8 +18,6 @@ const ProductsPage = () => {
         <Col className='prod-columna1' md={4} lg={6} >
 
           <h1 className='m-4'>Artesanias Stitch</h1>
-
-          <DropdownButton/>
 
         </Col>
 

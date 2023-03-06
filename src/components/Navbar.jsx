@@ -1,7 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
 import './nav.css';
-import '../../node_modules/bootstrap/dist/css/bootstrap-grid.min.css'
 
 const Navbar = () => {
   return (
